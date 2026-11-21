@@ -374,13 +374,6 @@ Potential improvements include:
 | S24CSEU1116 | Prince | Team Member |
 | S24CSEU1035 | Prabhsimar Madan | Team Member |
 | S24CSEU1190 | Divyansh Tyagi | Team Member |
-
----
-
-## Repository
-
-GitHub: https://github.com/naman1021-hub/VayuVision
-
 ---
 
 **VayuVision — Making Weather Information Simpler, Smarter, and More Accessible.**
